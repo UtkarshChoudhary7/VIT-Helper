@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "86362778003",
+    "firebase_url": "https://vithelper-4fe61.firebaseio.com",
+    "project_id": "vithelper-4fe61",
+    "storage_bucket": "vithelper-4fe61.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86362778003:android:ee8daba61115772c",
+        "android_client_info": {
+          "package_name": "com.helper.vit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "86362778003-iv20br2ujvhkiirp03cetof0f8ba0rje.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.helper.vit",
+            "certificate_hash": "4bb4fe7737c5176e41859ca4660c1e4c25a686e4"
+          }
+        },
+        {
+          "client_id": "86362778003-ke8lm12so33q4cef46s3hc7r3r8t97n6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2CxVMVqECXImeybVgiX2Rbpev187QHyQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "86362778003-ke8lm12so33q4cef46s3hc7r3r8t97n6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
