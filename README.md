@@ -1,6 +1,6 @@
-# vit_helper
+# VIT Helper
 
-A new Flutter project.
+App for helping VITians to get faculty info.
 
 ## Getting Started
 
